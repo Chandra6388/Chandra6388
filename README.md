@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://7b1y9b-3000.preview.csb.app/)**
-
 - 📫 How to reach me **cppatel6388@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**

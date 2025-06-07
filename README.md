@@ -1,6 +1,3 @@
-<img src="https://github-hero-readme.vercel.app/api?&description=Student%20Lelner%20%20|%20JavaScript%20%E2%99%A5&width='100%'">
-<br>
-<br>
 
 ## 🙋‍♂️ About Me
 
